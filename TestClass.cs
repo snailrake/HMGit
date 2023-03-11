@@ -14,5 +14,9 @@ public class Class1
         {
             return Math.PI * r * r;
         }
+        public double longCircle()
+        {
+            return 2 * Math.PI * r;
+        }
     }
 }
