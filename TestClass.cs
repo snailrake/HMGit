@@ -14,5 +14,6 @@ public class Class1
         {
             return Math.PI * r * r;
         }
+        public double r;
     }
 }
